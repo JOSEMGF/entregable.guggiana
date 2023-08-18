@@ -1,5 +1,5 @@
 # **EcoSoul**
-### *Vive en sintonía con lo natur*
+### *Vive en sintonía con lo natural*
 #### ***EcoSoul es un movimiento que trasciende las compras convencionales. Es una invitación a abrazar productos que honran la naturaleza y respetan tu bienestar. Desde superalimentos hasta utensilios ecológicos y productos de cuidado personal sin químicos, EcoSoul es tu fuente de opciones amigables con la tierra y la vida humana. En EcoSoul, nos encargamos de que tu elección sostenible sea tan accesible como un clic. Únete a nosotros en este viaje hacia un estilo de vida en armonía con la naturaleza, donde cada elección es una declaración en favor de un mundo más verde y próspero***
 
 ### Algunos de los productos que se pueden encontrar son :
@@ -25,13 +25,15 @@
 ### La tipógrafía a utilizar será [Montserrat](https://fonts.google.com/specimen/Montserrat)
 
 ### Paleta de colores:
-![Verde oscuro ](#004225)
-![Azul turquesa ](#00A79D)
-![Gris claro](#EDEDED)
-![Marrón tierra](#8A6D3B)
+[Verde oscuro ](https://g.co/kgs/FDzGAu)
+[Azul turquesa ](https://g.co/kgs/agmoQQ)
+[Gris claro](https://g.co/kgs/neKduy)
+[Marrón tierra](https://g.co/kgs/tcbN5m)
 
 
 ### Logo
- ![Logo](https://freeimage.host/i/Hb2TW7a)
+ [Logo](https://freeimage.host/i/Hb2TW7a)
+ 
+
  
 
